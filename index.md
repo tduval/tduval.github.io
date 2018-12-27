@@ -1,4 +1,4 @@
-## Personal Projects highlight
+# Personal Projects highlight
 ---
 
 ### VDI-Sizing-Wizard
@@ -14,7 +14,8 @@ It is composed of 2 elements which is :
 - [**Dockpier**](https://github.com/tduval/Dockpier) : Web-based Frontend made with VueJS frameworks which present the result of the python API by async request.
 
 
----
+
+
 ## Test Games on HTML
 ---
 
